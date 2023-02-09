@@ -3,9 +3,7 @@ Banglore
 Java Home cloud
 AWS and deops 
 balaji layout
-<<<<<<< HEAD
 dockers
 KammanagariJanardhan reddy
-=======
 Java
->>>>>>> 62a60ad40ca321e9f6a86839620085522ff02016
+Ansible
